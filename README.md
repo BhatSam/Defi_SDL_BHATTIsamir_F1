@@ -1,1 +1,2 @@
 # Defi_SDL_BHATTIsamir_F1
+Les différences entre le SDL ET LE SDL2 sont que les licences ne sont plus les mêmes, sur sdl de base ils etaient sous LGPL et aujourd'hui avec SDL 2 la licence est ZLIB. Les performances ont etaient augmentées. SDL2 peut afficher 60 images par secondes.Il y a énormément de nouvelles fonctionnalités
